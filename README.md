@@ -10,7 +10,7 @@ Programming
 * Currently learning React.js and TypeScript.
 
 ## Tools
-* Git, GitHub, VS Code, Canva.
+* Git, GitHub, VS Code,CodeBlocks, NetBeans and Canva.
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youstina-abdelmeseh-4b983a31b/)
