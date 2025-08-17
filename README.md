@@ -1,16 +1,16 @@
 ## Hi there 👋 
 ## Who am I?
-Third-year Computer Science Student.
-Front-End Developer.
-Passionate about web design and creative coding.
+* Third-year Computer Science Student.
+* Front-End Developer.
+* Passionate about web design and creative coding.
 
 ## Skills
 Programming
-HTML, CSS, JavaScript, C, Java, Data Structures, Algorithms.
-Currently learning React.js and TypeScript.
+* HTML, CSS, JavaScript, C, Java, Data Structures, Algorithms.
+* Currently learning React.js and TypeScript.
 
 ## Tools
-Git, GitHub, VS Code, Canva.
+* Git, GitHub, VS Code, Canva.
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youstina-abdelmeseh-4b983a31b/)
